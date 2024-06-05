@@ -40,7 +40,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>aulaspsringboot</finalName>
+	<finalName>aulasspringboot</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
